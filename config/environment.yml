@@ -1,0 +1,11 @@
+name: ml-cross-sectional-alpha research
+channels:
+- defaults
+- conda-forge
+dependencies:
+- numpy
+- pandas
+- matplotlib
+- python=3.13
+- ipykernel
+- yfinance
