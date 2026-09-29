@@ -1,4 +1,3 @@
-
 # ML Cross-Sectional Alpha Research
 
 A machine-learning research pipeline for predicting the cross-section of next-month US equity returns using price-, volatility-, liquidity-, and risk-based characteristics.
@@ -49,7 +48,7 @@ Portfolio rebalancing frequency:
 
 - Monthly
 
-Each observation in the final dataset represents one stock at one month-end:
+Each observation in the final dataset represents one stock at one vgggmonth-end:
 
 ```text
 (ticker, month)
